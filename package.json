@@ -1,0 +1,33 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "To format numbers",
+  "main": ".mongorc.js",
+  "dependencies": {
+    "blueimp-file-upload-node": "^2.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abkap02/number-formatter.git"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "keywords": [
+    "number",
+    "formatter"
+  ],
+  "author": "Abhinav Kapoor <abkap02@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abkap02/number-formatter/issues"
+  },
+  "homepage": "https://github.com/abkap02/number-formatter#readme"
+}
