@@ -26,6 +26,7 @@
   ],
   "author": "Abhinav Kapoor <abkap02@gmail.com>",
   "license": "MIT",
+  "scope": "abkap02",
   "bugs": {
     "url": "https://github.com/abkap02/number-formatter/issues"
   },
