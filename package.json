@@ -1,5 +1,5 @@
 {
-  "name": "number-formatter",
+  "name": "@abkap02/number-formatter",
   "version": "0.1.0",
   "description": "To format numbers",
   "main": ".mongorc.js",
@@ -26,7 +26,6 @@
   ],
   "author": "Abhinav Kapoor <abkap02@gmail.com>",
   "license": "MIT",
-  "scope": "abkap02",
   "bugs": {
     "url": "https://github.com/abkap02/number-formatter/issues"
   },
